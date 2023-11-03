@@ -1,0 +1,14 @@
+*{
+    margin:0 ;
+    padding:0;
+}
+.card{
+    width: 23%;
+    margin-right: 20px;
+}
+.card:hover{
+    background-color: rgb(209, 209, 209);
+}
+.card a{
+    text-decoration: none;
+}
